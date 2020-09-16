@@ -1,0 +1,21 @@
+.session-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    background-color: #FF9900;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: 1rem;
+}
+
+#session-label {
+    margin: 0;
+    color: #424242;
+}
